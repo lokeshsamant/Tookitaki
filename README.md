@@ -10,7 +10,7 @@
 ## Run tests:
 
 * Run tests via plain Protractor `protractor conf.js`
-* Run 'npm run report'
+* Run `npm run report`
 
 
 ## Troubleshooting

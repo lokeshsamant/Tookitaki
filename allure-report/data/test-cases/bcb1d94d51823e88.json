@@ -1,27 +1,27 @@
 {
-  "uid" : "eecd8b20fa987efc",
-  "name" : "TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list",
-  "fullName" : "Test Orang HRM portal.TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list",
-  "historyId" : "b99f1e8cef01f9cf3c5309d537cb8dcd",
+  "uid" : "bcb1d94d51823e88",
+  "name" : "TS_PIM_01- Should be able to enter the Orange HRM system with a successful ESS-User account",
+  "fullName" : "Test Orang HRM portal.TS_PIM_01- Should be able to enter the Orange HRM system with a successful ESS-User account",
+  "historyId" : "409fa7137d379ee191d192bb38f0244d",
   "time" : {
-    "start" : 1556096474851,
-    "stop" : 1556096480669,
-    "duration" : 5818
+    "start" : 1556099862358,
+    "stop" : 1556099880965,
+    "duration" : 18607
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "passed",
-  "flaky" : false,
+  "flaky" : true,
   "beforeStages" : [ ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b3e767c3b7481339",
+      "uid" : "f8779e64028876e8",
       "name" : "Screenshot",
-      "source" : "b3e767c3b7481339.png",
+      "source" : "f8779e64028876e8.png",
       "type" : "image/png",
-      "size" : 82650
+      "size" : 75113
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -38,7 +38,7 @@
     "value" : "Test Orang HRM portal"
   }, {
     "name" : "testMethod",
-    "value" : "TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list"
+    "value" : "TS_PIM_01- Should be able to enter the Orange HRM system with a successful ESS-User account"
   }, {
     "name" : "package",
     "value" : "Test Orang HRM portal"
@@ -52,10 +52,19 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "ce5bf932e1c44a8d",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: pnng is not defined",
+      "time" : {
+        "start" : 1556099743372,
+        "stop" : 1556099762662,
+        "duration" : 19290
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "eecd8b20fa987efc.json",
+  "source" : "bcb1d94d51823e88.json",
   "parameterValues" : [ ]
 }

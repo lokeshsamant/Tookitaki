@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1556099743372' stop='1556099784277'>
+    <name>Test Orang HRM portal</name>
+    <title>Test Orang HRM portal</title>
+    <test-cases>
+        <test-case start='1556099743372' status='failed' stop='1556099762662'>
+            <name>TS_PIM_01- Should be able to enter the Orange HRM system with a successful ESS-User account</name>
+            <title>TS_PIM_01- Should be able to enter the Orange HRM system with a successful ESS-User account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: pnng is not defined</message>
+                <stack-trace>ReferenceError: pnng is not defined
+                    at /home/lokesh/Documents/Tookitaki/conf.js:55:39
+                    at /home/lokesh/Documents/Tookitaki/node_modules/allure-js-commons/runtime.js:44:34
+                    at /home/lokesh/Documents/Tookitaki/conf.js:56:32
+                    at ManagedPromise.invokeCallback_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:103:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1556099762662' status='failed' stop='1556099766438'>
+            <name>TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time</name>
+            <title>TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: pnng is not defined</message>
+                <stack-trace>ReferenceError: pnng is not defined
+                    at /home/lokesh/Documents/Tookitaki/conf.js:55:39
+                    at /home/lokesh/Documents/Tookitaki/node_modules/allure-js-commons/runtime.js:44:34
+                    at /home/lokesh/Documents/Tookitaki/conf.js:56:32
+                    at ManagedPromise.invokeCallback_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:103:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1556099766438' status='failed' stop='1556099771303'>
+            <name>TS_PIM_03 - Should be able to edit the fields and save changes in Contact details</name>
+            <title>TS_PIM_03 - Should be able to edit the fields and save changes in Contact details</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: pnng is not defined</message>
+                <stack-trace>ReferenceError: pnng is not defined
+                    at /home/lokesh/Documents/Tookitaki/conf.js:55:39
+                    at /home/lokesh/Documents/Tookitaki/node_modules/allure-js-commons/runtime.js:44:34
+                    at /home/lokesh/Documents/Tookitaki/conf.js:56:32
+                    at ManagedPromise.invokeCallback_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:103:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1556099771303' status='failed' stop='1556099776857'>
+            <name>TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list</name>
+            <title>TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: pnng is not defined</message>
+                <stack-trace>ReferenceError: pnng is not defined
+                    at /home/lokesh/Documents/Tookitaki/conf.js:55:39
+                    at /home/lokesh/Documents/Tookitaki/node_modules/allure-js-commons/runtime.js:44:34
+                    at /home/lokesh/Documents/Tookitaki/conf.js:56:32
+                    at ManagedPromise.invokeCallback_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:103:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1556099776857' status='failed' stop='1556099781376'>
+            <name>TS_PIM_05 - Should be able to upload a picture format</name>
+            <title>TS_PIM_05 - Should be able to upload a picture format</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: pnng is not defined</message>
+                <stack-trace>ReferenceError: pnng is not defined
+                    at /home/lokesh/Documents/Tookitaki/conf.js:55:39
+                    at /home/lokesh/Documents/Tookitaki/node_modules/allure-js-commons/runtime.js:44:34
+                    at /home/lokesh/Documents/Tookitaki/conf.js:56:32
+                    at ManagedPromise.invokeCallback_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:103:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1556099781376' status='failed' stop='1556099784276'>
+            <name>TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph</name>
+            <title>TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: pnng is not defined</message>
+                <stack-trace>ReferenceError: pnng is not defined
+                    at /home/lokesh/Documents/Tookitaki/conf.js:55:39
+                    at /home/lokesh/Documents/Tookitaki/node_modules/allure-js-commons/runtime.js:44:34
+                    at /home/lokesh/Documents/Tookitaki/conf.js:56:32
+                    at ManagedPromise.invokeCallback_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /home/lokesh/.nvm/versions/node/v6.2.0/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:103:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

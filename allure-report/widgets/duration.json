@@ -1,60 +1,60 @@
 [ {
-  "uid" : "6a1ad33e9e51a8b8",
-  "name" : "TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time",
-  "time" : {
-    "start" : 1556096466133,
-    "stop" : 1556096469358,
-    "duration" : 3225
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "eecd8b20fa987efc",
-  "name" : "TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list",
-  "time" : {
-    "start" : 1556096474851,
-    "stop" : 1556096480669,
-    "duration" : 5818
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cb286586d707a0",
-  "name" : "TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph",
-  "time" : {
-    "start" : 1556096485105,
-    "stop" : 1556096488995,
-    "duration" : 3890
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9af361e0a9755dd9",
-  "name" : "TS_PIM_03 - Should be able to edit the fields and save changes in Contact details",
-  "time" : {
-    "start" : 1556096469358,
-    "stop" : 1556096474851,
-    "duration" : 5493
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fe4c6391559bcf0f",
+  "uid" : "4cec819133c1c2ba",
   "name" : "TS_PIM_05 - Should be able to upload a picture format",
   "time" : {
-    "start" : 1556096480669,
-    "stop" : 1556096485105,
-    "duration" : 4436
+    "start" : 1556099900205,
+    "stop" : 1556099904482,
+    "duration" : 4277
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e0f1efc1ca2f8ee7",
+  "uid" : "bcb1d94d51823e88",
   "name" : "TS_PIM_01- Should be able to enter the Orange HRM system with a successful ESS-User account",
   "time" : {
-    "start" : 1556096451142,
-    "stop" : 1556096466133,
-    "duration" : 14991
+    "start" : 1556099862358,
+    "stop" : 1556099880965,
+    "duration" : 18607
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e798a5da4455d2de",
+  "name" : "TS_PIM_03 - Should be able to edit the fields and save changes in Contact details",
+  "time" : {
+    "start" : 1556099885749,
+    "stop" : 1556099891544,
+    "duration" : 5795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39a2d926389d629d",
+  "name" : "TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time",
+  "time" : {
+    "start" : 1556099880965,
+    "stop" : 1556099885749,
+    "duration" : 4784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94d4023ac5338b2c",
+  "name" : "TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph",
+  "time" : {
+    "start" : 1556099904482,
+    "stop" : 1556099908749,
+    "duration" : 4267
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19dc6e571998aba3",
+  "name" : "TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list",
+  "time" : {
+    "start" : 1556099891544,
+    "stop" : 1556099900205,
+    "duration" : 8661
   },
   "status" : "passed",
   "severity" : "normal"

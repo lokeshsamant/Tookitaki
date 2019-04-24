@@ -1,27 +1,27 @@
 {
-  "uid" : "9af361e0a9755dd9",
-  "name" : "TS_PIM_03 - Should be able to edit the fields and save changes in Contact details",
-  "fullName" : "Test Orang HRM portal.TS_PIM_03 - Should be able to edit the fields and save changes in Contact details",
-  "historyId" : "c36c658a4c19c2d22077b18c1305c02f",
+  "uid" : "4cec819133c1c2ba",
+  "name" : "TS_PIM_05 - Should be able to upload a picture format",
+  "fullName" : "Test Orang HRM portal.TS_PIM_05 - Should be able to upload a picture format",
+  "historyId" : "7d3f0f9f0ee0adfe200fca0e58c9e979",
   "time" : {
-    "start" : 1556096469358,
-    "stop" : 1556096474851,
-    "duration" : 5493
+    "start" : 1556099900205,
+    "stop" : 1556099904482,
+    "duration" : 4277
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "passed",
-  "flaky" : false,
+  "flaky" : true,
   "beforeStages" : [ ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "e9fb241032d5d145",
+      "uid" : "eec233beace8c180",
       "name" : "Screenshot",
-      "source" : "e9fb241032d5d145.png",
+      "source" : "eec233beace8c180.png",
       "type" : "image/png",
-      "size" : 76005
+      "size" : 106904
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -38,7 +38,7 @@
     "value" : "Test Orang HRM portal"
   }, {
     "name" : "testMethod",
-    "value" : "TS_PIM_03 - Should be able to edit the fields and save changes in Contact details"
+    "value" : "TS_PIM_05 - Should be able to upload a picture format"
   }, {
     "name" : "package",
     "value" : "Test Orang HRM portal"
@@ -52,10 +52,19 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "4f0555639ef3bbeb",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: pnng is not defined",
+      "time" : {
+        "start" : 1556099776857,
+        "stop" : 1556099781376,
+        "duration" : 4519
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "9af361e0a9755dd9.json",
+  "source" : "4cec819133c1c2ba.json",
   "parameterValues" : [ ]
 }

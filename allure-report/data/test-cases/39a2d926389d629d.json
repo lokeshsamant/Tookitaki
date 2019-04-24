@@ -1,0 +1,70 @@
+{
+  "uid" : "39a2d926389d629d",
+  "name" : "TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time",
+  "fullName" : "Test Orang HRM portal.TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time",
+  "historyId" : "20dc8f363b213c851478dd8de1916e3d",
+  "time" : {
+    "start" : 1556099880965,
+    "stop" : 1556099885749,
+    "duration" : 4784
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b32b357af03e4991",
+      "name" : "Screenshot",
+      "source" : "b32b357af03e4991.png",
+      "type" : "image/png",
+      "size" : 73150
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testMethod",
+    "value" : "TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time"
+  }, {
+    "name" : "package",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "15e04bbba99ce59e",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: pnng is not defined",
+      "time" : {
+        "start" : 1556099762662,
+        "stop" : 1556099766438,
+        "duration" : 3776
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39a2d926389d629d.json",
+  "parameterValues" : [ ]
+}

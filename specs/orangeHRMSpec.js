@@ -84,7 +84,6 @@ describe('Test Orang HRM portal', ()=> {
         var path = require('path');
         var fileToUpload = '../Profile_picture/images.png',
             absolutePath = path.resolve(__dirname, fileToUpload);
-
         element(by.id("empPic")).click();
         element(by.id("photofile")).sendKeys(absolutePath);
         element(by.id("btnSave")).click();
@@ -97,7 +96,7 @@ describe('Test Orang HRM portal', ()=> {
 
 
         browser.actions().mouseMove(element(by.id("menu_dashboard_index"))).click().perform();
-        browser.sleep(3000);
+        browser.sleep(2000);
         browser.actions().mouseMove(element(by.id("dashboard__employeeDistribution"))).perform();
         expect(browser.getCurrentUrl()).toContain("https://opensource-demo.orangehrmlive.com/index.php/dashboard");
     });

@@ -1,27 +1,27 @@
 {
-  "uid" : "6a1ad33e9e51a8b8",
-  "name" : "TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time",
-  "fullName" : "Test Orang HRM portal.TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time",
-  "historyId" : "20dc8f363b213c851478dd8de1916e3d",
+  "uid" : "94d4023ac5338b2c",
+  "name" : "TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph",
+  "fullName" : "Test Orang HRM portal.TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph",
+  "historyId" : "363d07e0acd65d39bc11817c3d3e6c08",
   "time" : {
-    "start" : 1556096466133,
-    "stop" : 1556096469358,
-    "duration" : 3225
+    "start" : 1556099904482,
+    "stop" : 1556099908749,
+    "duration" : 4267
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "passed",
-  "flaky" : false,
+  "flaky" : true,
   "beforeStages" : [ ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "c38996e0f06ab5b7",
+      "uid" : "1e5123a4ed515e13",
       "name" : "Screenshot",
-      "source" : "c38996e0f06ab5b7.png",
+      "source" : "1e5123a4ed515e13.png",
       "type" : "image/png",
-      "size" : 69946
+      "size" : 75890
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -38,7 +38,7 @@
     "value" : "Test Orang HRM portal"
   }, {
     "name" : "testMethod",
-    "value" : "TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time"
+    "value" : "TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph"
   }, {
     "name" : "package",
     "value" : "Test Orang HRM portal"
@@ -52,10 +52,19 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "6f8751bc45aa42cb",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: pnng is not defined",
+      "time" : {
+        "start" : 1556099781376,
+        "stop" : 1556099784276,
+        "duration" : 2900
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "6a1ad33e9e51a8b8.json",
+  "source" : "94d4023ac5338b2c.json",
   "parameterValues" : [ ]
 }

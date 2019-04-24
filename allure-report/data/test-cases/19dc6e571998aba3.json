@@ -1,27 +1,27 @@
 {
-  "uid" : "cb286586d707a0",
-  "name" : "TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph",
-  "fullName" : "Test Orang HRM portal.TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph",
-  "historyId" : "363d07e0acd65d39bc11817c3d3e6c08",
+  "uid" : "19dc6e571998aba3",
+  "name" : "TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list",
+  "fullName" : "Test Orang HRM portal.TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list",
+  "historyId" : "b99f1e8cef01f9cf3c5309d537cb8dcd",
   "time" : {
-    "start" : 1556096485105,
-    "stop" : 1556096488995,
-    "duration" : 3890
+    "start" : 1556099891544,
+    "stop" : 1556099900205,
+    "duration" : 8661
   },
   "description" : "",
   "descriptionHtml" : "",
   "status" : "passed",
-  "flaky" : false,
+  "flaky" : true,
   "beforeStages" : [ ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "66df91cf6f784dce",
+      "uid" : "1bcb832916c1c42a",
       "name" : "Screenshot",
-      "source" : "66df91cf6f784dce.png",
+      "source" : "1bcb832916c1c42a.png",
       "type" : "image/png",
-      "size" : 76498
+      "size" : 82689
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -38,7 +38,7 @@
     "value" : "Test Orang HRM portal"
   }, {
     "name" : "testMethod",
-    "value" : "TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph"
+    "value" : "TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list"
   }, {
     "name" : "package",
     "value" : "Test Orang HRM portal"
@@ -52,10 +52,19 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ ],
+    "retries" : [ {
+      "uid" : "1f3d20c438db01a9",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: pnng is not defined",
+      "time" : {
+        "start" : 1556099771303,
+        "stop" : 1556099776857,
+        "duration" : 5554
+      }
+    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "cb286586d707a0.json",
+  "source" : "19dc6e571998aba3.json",
   "parameterValues" : [ ]
 }
