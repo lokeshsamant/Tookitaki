@@ -1,0 +1,61 @@
+{
+  "uid" : "9af361e0a9755dd9",
+  "name" : "TS_PIM_03 - Should be able to edit the fields and save changes in Contact details",
+  "fullName" : "Test Orang HRM portal.TS_PIM_03 - Should be able to edit the fields and save changes in Contact details",
+  "historyId" : "c36c658a4c19c2d22077b18c1305c02f",
+  "time" : {
+    "start" : 1556096469358,
+    "stop" : 1556096474851,
+    "duration" : 5493
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e9fb241032d5d145",
+      "name" : "Screenshot",
+      "source" : "e9fb241032d5d145.png",
+      "type" : "image/png",
+      "size" : 76005
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testMethod",
+    "value" : "TS_PIM_03 - Should be able to edit the fields and save changes in Contact details"
+  }, {
+    "name" : "package",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9af361e0a9755dd9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,61 @@
+{
+  "uid" : "6a1ad33e9e51a8b8",
+  "name" : "TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time",
+  "fullName" : "Test Orang HRM portal.TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time",
+  "historyId" : "20dc8f363b213c851478dd8de1916e3d",
+  "time" : {
+    "start" : 1556096466133,
+    "stop" : 1556096469358,
+    "duration" : 3225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c38996e0f06ab5b7",
+      "name" : "Screenshot",
+      "source" : "c38996e0f06ab5b7.png",
+      "type" : "image/png",
+      "size" : 69946
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testMethod",
+    "value" : "TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time"
+  }, {
+    "name" : "package",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a1ad33e9e51a8b8.json",
+  "parameterValues" : [ ]
+}

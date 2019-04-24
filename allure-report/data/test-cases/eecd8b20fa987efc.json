@@ -1,0 +1,61 @@
+{
+  "uid" : "eecd8b20fa987efc",
+  "name" : "TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list",
+  "fullName" : "Test Orang HRM portal.TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list",
+  "historyId" : "b99f1e8cef01f9cf3c5309d537cb8dcd",
+  "time" : {
+    "start" : 1556096474851,
+    "stop" : 1556096480669,
+    "duration" : 5818
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b3e767c3b7481339",
+      "name" : "Screenshot",
+      "source" : "b3e767c3b7481339.png",
+      "type" : "image/png",
+      "size" : 82650
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testMethod",
+    "value" : "TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list"
+  }, {
+    "name" : "package",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eecd8b20fa987efc.json",
+  "parameterValues" : [ ]
+}

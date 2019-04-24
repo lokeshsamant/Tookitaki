@@ -1,0 +1,61 @@
+{
+  "uid" : "fe4c6391559bcf0f",
+  "name" : "TS_PIM_05 - Should be able to upload a picture format",
+  "fullName" : "Test Orang HRM portal.TS_PIM_05 - Should be able to upload a picture format",
+  "historyId" : "7d3f0f9f0ee0adfe200fca0e58c9e979",
+  "time" : {
+    "start" : 1556096480669,
+    "stop" : 1556096485105,
+    "duration" : 4436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f3cc4f753f5587c1",
+      "name" : "Screenshot",
+      "source" : "f3cc4f753f5587c1.png",
+      "type" : "image/png",
+      "size" : 106743
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testMethod",
+    "value" : "TS_PIM_05 - Should be able to upload a picture format"
+  }, {
+    "name" : "package",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe4c6391559bcf0f.json",
+  "parameterValues" : [ ]
+}

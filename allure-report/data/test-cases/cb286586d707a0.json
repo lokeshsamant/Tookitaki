@@ -1,0 +1,61 @@
+{
+  "uid" : "cb286586d707a0",
+  "name" : "TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph",
+  "fullName" : "Test Orang HRM portal.TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph",
+  "historyId" : "363d07e0acd65d39bc11817c3d3e6c08",
+  "time" : {
+    "start" : 1556096485105,
+    "stop" : 1556096488995,
+    "duration" : 3890
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "66df91cf6f784dce",
+      "name" : "Screenshot",
+      "source" : "66df91cf6f784dce.png",
+      "type" : "image/png",
+      "size" : 76498
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "testMethod",
+    "value" : "TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph"
+  }, {
+    "name" : "package",
+    "value" : "Test Orang HRM portal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb286586d707a0.json",
+  "parameterValues" : [ ]
+}
