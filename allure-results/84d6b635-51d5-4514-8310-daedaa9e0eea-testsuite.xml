@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1556074239774' stop='1556074274809'>
+    <name>Test Orang HRM portal</name>
+    <title>Test Orang HRM portal</title>
+    <test-cases>
+        <test-case start='1556074239775' status='passed' stop='1556074253198'>
+            <name>TS_PIM_01- Should be able to enter the Orange HRM system with a successful ESS-User account</name>
+            <title>TS_PIM_01- Should be able to enter the Orange HRM system with a successful ESS-User account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7249332f-55e5-4734-a34d-ae948f3d88d1-attachment.png' type='image/png' size='72961'/>
+            </attachments>
+        </test-case>
+        <test-case start='1556074253198' status='passed' stop='1556074256333'>
+            <name>TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time</name>
+            <title>TS_PIM_02 - Should be able to see the “General Information” in organization tab under admin on logging in the first time</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d8cfcf32-ebdc-47b7-973a-7045a047a6d6-attachment.png' type='image/png' size='73365'/>
+            </attachments>
+        </test-case>
+        <test-case start='1556074256333' status='passed' stop='1556074261676'>
+            <name>TS_PIM_03 - Should be able to edit the fields and save changes in Contact details</name>
+            <title>TS_PIM_03 - Should be able to edit the fields and save changes in Contact details</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='247de845-a41b-4989-8ab5-cd5caf0fee35-attachment.png' type='image/png' size='77063'/>
+            </attachments>
+        </test-case>
+        <test-case start='1556074261676' status='passed' stop='1556074266847'>
+            <name>TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list</name>
+            <title>TS_PIM_04 - Should be able to Add new Employee under PIM, Employee list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f15d57aa-fcb6-4fdf-9339-d17be6efed51-attachment.png' type='image/png' size='82768'/>
+            </attachments>
+        </test-case>
+        <test-case start='1556074266847' status='passed' stop='1556074270994'>
+            <name>TS_PIM_05 - Should be able to upload a picture format</name>
+            <title>TS_PIM_05 - Should be able to upload a picture format</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='64aebe76-4a31-4cc9-8935-e7700282178d-attachment.png' type='image/png' size='106942'/>
+            </attachments>
+        </test-case>
+        <test-case start='1556074270994' status='passed' stop='1556074274808'>
+            <name>TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph</name>
+            <title>TS_PIM_06 - Should be able to Mouse over on Employee Distribution by subunit graph</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7404fe61-279c-4f18-b300-f55f88ca4049-attachment.png' type='image/png' size='75154'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

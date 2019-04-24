@@ -4,9 +4,10 @@
   "description": "\"Vault UI automation\"",
   "main": "conf.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "report":  "allure  generate allure-results --clean -o allure-report || true"
   },
-  "author": "Dillip",
+  "author": "Lokesh",
   "license": "ISC",
   "dependencies": {
     "chance": "^1.0.16",
@@ -23,6 +24,8 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-register": "^6.26.0",
     "protractor-jasmine2-html-reporter": "0.0.7",
-    "jasmine-spec-reporter": "^4.2.1"
+    "jasmine-spec-reporter": "^4.2.1",
+    "jasmine-allure-reporter":"^1.0.2",
+    "allure-commandline":"^2.9.0"
   }
 }
